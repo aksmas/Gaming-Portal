@@ -1,0 +1,13 @@
+<html>
+<body>
+<br>
+<a href="index.php">Home</a>
+<a href="games.php">Tom and Jerry Game</a>
+<a href="dlc.php">Bouncy Game</a>
+<a href="create_topic.php">Forums</a>
+<form action="logout.php">
+    <input type="submit" value="Logout">
+</form>
+</body>
+</html>
+
